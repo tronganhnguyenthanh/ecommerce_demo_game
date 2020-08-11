@@ -1,0 +1,72 @@
+/*  
+  Resize Image
+*/
+.image{
+  height:auto;
+  border:1px solid lightgray;
+}
+/*  
+ Remove horizontal scroll
+*/
+html{
+ overflow-x:hidden;
+ overflow-y:scroll;
+}
+
+p{
+ color:dodgerblue;
+ font-weight:bold;
+}
+
+h1{
+ color:navy !important;
+}
+
+p:hover{
+ color:slateblue !important;
+}
+
+h2{
+ color:#ffa233 !important; 
+}
+
+@media(max-width:576px){
+  .mobile{
+    margin-left:-10% !important;
+  }
+  .modal-dialog{
+    margin-left:-2% !important;
+  }
+}
+
+.rectangle{
+  border:1px solid lightgray;
+  transform:skewX(10deg);
+}
+
+.line{
+  width:100%;
+  height:10px;
+  border:1px solid #08f;
+  background-color:#08f;
+}
+
+.banner{
+  width:100%;
+  height:auto;
+  border:1px solid lightgray;
+}
+
+.card-text:hover{
+   color:limegreen !important;
+}
+
+.confirm:hover{
+  color:limegreen !important;
+}
+
+.wrapper{
+  width:100%;
+  height:auto;
+  border:1px solid lightgray;
+}
