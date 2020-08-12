@@ -1,5 +1,5 @@
-const redirecttoCheckoutPage = () => {
-  window.location.href="checkout.html";
+const redirecttoCartPage = () => {
+  window.location.href="cart.html";
 }
 
 const redirecttoIndexPage = () => {

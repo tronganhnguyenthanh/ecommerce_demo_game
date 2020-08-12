@@ -70,3 +70,12 @@ h2{
   height:auto;
   border:1px solid lightgray;
 }
+
+.footer{
+  height:auto;
+  border:1px solid lightgray;
+}
+
+.logo-header{
+   width:12% !important;
+}
