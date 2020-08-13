@@ -37,6 +37,12 @@ h2{
   .modal-dialog{
     margin-left:-2% !important;
   }
+  .menu-mobile{
+    margin-left:30% !important;
+  }
+  .logo{
+    margin-left:32% !important;
+  }
 }
 
 .rectangle{
@@ -78,4 +84,13 @@ h2{
 
 .logo-header{
    width:12% !important;
+}
+
+.price:hover{
+  color:#ffc107 !important;
+}
+
+.footer{
+  width:100%;
+  height:auto;
 }
