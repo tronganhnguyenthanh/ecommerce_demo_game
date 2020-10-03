@@ -1,3 +1,3 @@
 const redirecttoCheckoutPage = () => {
-  window.location.href="checkout.html";
+   window.location.href = "index.html";
 }
