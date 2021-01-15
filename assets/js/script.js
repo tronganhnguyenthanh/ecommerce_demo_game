@@ -1,11 +1,10 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyAlMcdgNrnh0ClHQusDyurKq14CiPUbxKk",
-    authDomain: "d-game-991d2.firebaseapp.com",
-    databaseURL: "https://d-game-991d2.firebaseio.com",
-    projectId: "d-game-991d2",
-    storageBucket: "d-game-991d2.appspot.com",
-    messagingSenderId: "907390087888",
-    appId: "1:907390087888:web:ebaeda8a2fe513b535a4d5"
+    apiKey:"AIzaSyCPisWSm0bRXu-HUeRxKkni6wq9PN0f8qw",
+    authDomain:"ecommerce-demo-game.firebaseapp.com",
+    projectId:"ecommerce-demo-game",
+    storageBucket:"ecommerce-demo-game.appspot.com",
+    messagingSenderId:"343754757496",
+    appId:"1:343754757496:web:89c23d6cd8b079fcc8a48d"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
